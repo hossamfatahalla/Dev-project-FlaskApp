@@ -95,11 +95,7 @@ This project is configured with Jenkins to automate the build, test, and deploym
 - **Manage Bucket List**: Add, view, update, and delete items on your personal bucket list.
 
 ## Contributing
-Contributions are welcome! Please submit a pull request or open an issue if you have suggestions for improvements.
-
-## License
-This project is licensed under the MIT License.
+- Hossam Fathalla
 
 ---
 
-Let me know if you'd like any adjustments!
