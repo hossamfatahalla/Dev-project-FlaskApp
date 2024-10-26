@@ -94,8 +94,7 @@ This project is configured with Jenkins to automate the build, test, and deploym
 - **User Registration**: Create an account and log in to start creating your bucket list.
 - **Manage Bucket List**: Add, view, update, and delete items on your personal bucket list.
 
-## Contributing
-- Hossam Fathalla
+
 
 ---
 
